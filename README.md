@@ -1,1 +1,1 @@
-The example of recognition objects on movies with pytorch/C++.
+The example of recognition objects to movies with pytorch/C++.
