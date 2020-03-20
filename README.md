@@ -1,0 +1,1 @@
+The example of recognition objects on movies with pytorch/C++.
